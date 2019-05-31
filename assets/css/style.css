@@ -15,11 +15,11 @@ header,
 }
 
 #intro {
-    background: url("../images/haoh-bg.png")no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background: url("../images/haoh-bg.jpeg")no-repeat center center fixed;
+    -webkit-background-size: fill;
+    -moz-background-size: fill;
+    -o-background-size: fill;
+    background-size: fill;
 }
 
 .social-link:hover{
